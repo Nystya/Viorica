@@ -2,6 +2,7 @@
 Intelligent home assistant.
 
 ====== Catalin-Mihai Vajaiala-Tomici (87621) -- Viorica ======
+
 ==== Introducere ===
 Viorica este un asistent personal pentru locuinte inteligente. Aceasta va raspunde la anumite comenzi vocale presetate.
 
