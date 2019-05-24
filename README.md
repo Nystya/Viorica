@@ -1,5 +1,5 @@
 # Viorica
-Intelligen home assistant.
+Intelligent home assistant.
 
 ====== Catalin-Mihai Vajaiala-Tomici (87621) -- Viorica ======
 ==== Introducere ===
